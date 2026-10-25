@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Muzemil Awel
 
-<!--
-**muzemilawel82-bit/muzemilawel82-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer | Building Ideas into Reality
 
-Here are some ideas to get you started:
+I'm a passionate developer who enjoys building practical web applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently building web applications with **Node.js and Express.js**
+- 🌱 Learning backend development, databases, APIs, and deployment
+- 🛠️ Interested in JavaScript, SQL, and full-stack development
+- 🎯 My goal is to build useful technology that makes a difference in people's lives
+- 📚 Always learning, improving, and building new projects
+
+### 🧰 Technologies & Tools
+
+JavaScript • Node.js • Express.js • HTML • CSS • SQL • Git • GitHub • VS Code
+
+### 📌 Featured Projects
+
+- 🌐 **Personal Portfolio** — Showcasing my skills, projects, and development journey.
+- 💼 **Job Opportunity Portal** — A project focused on connecting people with opportunities.
+
+### 🤝 Let's Connect
+
+- GitHub: [My GitHub Profile](https://github.com/)
+
+---
+
+⭐ *Keep learning. Keep building. Keep growing.*
